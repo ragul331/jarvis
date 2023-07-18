@@ -29,7 +29,6 @@ from JarvisUi import Ui_JarvisUI
 from pywikihow import search_wikihow
 import speedtest
 from pytube import YouTube
-import qrcode
 
 engine = pyttsx3.init('sapi5')
 voices = engine.getProperty('voices')
